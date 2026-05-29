@@ -1,0 +1,19 @@
+# ninja log v5
+45	1791	8017440218892995	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4fe8e4cfc2d5bb3b
+35	1805	8017440218999979	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bb1bc04e972c5bc7
+66	2164	8017440222684289	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	d19144b264e4ffee
+18	1843	8017440219424176	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	32b103b907f3aa43
+1	1930	8017440220315339	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	2d559cc2e5e29f0e
+55	1861	8017440219623319	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ab233158f46a184f
+2314	2513	8017440226200896	C:/Git_projects/Laryngoscopy-Training/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1w4b1c3w/obj/arm64-v8a/libgame.so	93d8777715c44df3
+26	2204	8017440223050986	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	81205cd836663f0d
+11	2314	8017440224161097	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f395b801aaabc3a1
+468	4975	8017444039446191	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4fe8e4cfc2d5bb3b
+419	4980	8017444039446191	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bb1bc04e972c5bc7
+386	4983	8017444039560776	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	32b103b907f3aa43
+449	5005	8017444039875479	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ab233158f46a184f
+373	5058	8017444040371755	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	2d559cc2e5e29f0e
+458	5358	8017444043243067	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	d19144b264e4ffee
+476	5628	8017444045893331	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	81205cd836663f0d
+9	5909	8017444048893412	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	f395b801aaabc3a1
+5910	6222	8017444052021822	C:/Git_projects/Laryngoscopy-Training/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1w4b1c3w/obj/arm64-v8a/libgame.so	93d8777715c44df3

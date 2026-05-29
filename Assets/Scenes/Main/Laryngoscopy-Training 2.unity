@@ -8405,6 +8405,18 @@ MonoBehaviour:
     animator: {fileID: 42251006}
     usePrefabAnimator: 0
     animationClipName: QR
+  - headingName: 'Pick the Bag valve mask:'
+    animator: {fileID: 6690756338453039766, guid: 2ee6d44827279694981abb35a8a48da0, type: 3}
+    usePrefabAnimator: 1
+    animationClipName: Position The Bag valve Mask
+  - headingName: 'Place the bag valve mask:'
+    animator: {fileID: 6690756338453039766, guid: 2ee6d44827279694981abb35a8a48da0, type: 3}
+    usePrefabAnimator: 1
+    animationClipName: Oxiginate
+  - headingName: 'Remove the Bag valve mask:'
+    animator: {fileID: 6690756338453039766, guid: 2ee6d44827279694981abb35a8a48da0, type: 3}
+    usePrefabAnimator: 1
+    animationClipName: RemoveThe Bag valve Mask
   - headingName: 'Positioning:'
     animator: {fileID: 6690756338453039766, guid: 2ee6d44827279694981abb35a8a48da0, type: 3}
     usePrefabAnimator: 1
@@ -8421,6 +8433,14 @@ MonoBehaviour:
     animator: {fileID: 6690756338453039766, guid: 2ee6d44827279694981abb35a8a48da0, type: 3}
     usePrefabAnimator: 1
     animationClipName: LIft the tongue
+  - headingName: 'Remove the laryngoscope:'
+    animator: {fileID: 6690756338453039766, guid: 2ee6d44827279694981abb35a8a48da0, type: 3}
+    usePrefabAnimator: 1
+    animationClipName: Remove The Laryngoscope
+  - headingName: 'Bag Valve Mask Placement:'
+    animator: {fileID: 6690756338453039766, guid: 2ee6d44827279694981abb35a8a48da0, type: 3}
+    usePrefabAnimator: 1
+    animationClipName: Place the bag in Face
 --- !u!4 &318764122
 Transform:
   m_ObjectHideFlags: 0

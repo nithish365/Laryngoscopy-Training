@@ -1,0 +1,2 @@
+C:\Git_projects\Laryngoscopy-Training\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Git_projects\Laryngoscopy-Training\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
